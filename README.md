@@ -1,2 +1,4 @@
-# team-members-handbook
-All about working at Freshbits
+# Rough notes
+
+- Quality of work
+- Speed of work
