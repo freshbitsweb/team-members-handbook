@@ -21,6 +21,7 @@ If you are reading this as a new team member, we urge you to question everything
 - Expectations from team members - passion and love for programming
 - Productivity (Distraction, estimates)
 - Working Hours, Leaves and holidays, No overtimes
+- Saturdays - non-work stuff like YouTube videos/Open Source/ etc.
 - Resignation, Termination
 - Seminars, Events, YouTube, Open source
 - Behavior - Treat others the way you want to be treated
