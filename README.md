@@ -26,6 +26,7 @@ If you are reading this as a new team member, we urge you to question everything
 - Seminars, Events, YouTube, Open source
 - Behavior - Treat others the way you want to be treated
 - Side projects/ or other jobs
+- Tools and softwares used
 
 # Notes
 - Include images of team members and from unsplash
