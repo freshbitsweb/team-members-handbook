@@ -11,7 +11,7 @@ If you are reading this as a new team member, we urge you to question everything
 
 - Tools and softwares
 -> We should be recording all the decisions related to tasks in Trello
--> Slack for internal questions and chat (Goal is to use it the least to keel distraction levels minimum)
+-> Slack for internal questions and chat (Goal is to use it the least to keep distraction levels minimum)
 -> Skype (For videos calls, screensharing calls, or calls/discussions with clients and third party developers)
 
 
@@ -27,6 +27,10 @@ If you are reading this as a new team member, we urge you to question everything
 - Behavior - Treat others the way you want to be treated
 - Side projects/ or other jobs
 - Tools and softwares used
+
+## Technical
+- Use Badges to signify PR status
+- Whenever you review a PR and request changes, please make sure that you resolve the conversations once they are updated/fixed
 
 # Notes
 - Include images of team members and from unsplash
