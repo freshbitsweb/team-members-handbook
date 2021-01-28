@@ -30,7 +30,7 @@ If you are reading this as a new team member, we urge you to question everything
 
 ## Technical
 - Use Badges to signify PR status
-- Whenever you review a PR and request changes, please make sure that you resolve the conversations once they are updated/fixed
+- Whenever you review a PR and request changes, please make sure that you resolve the conversations once they are updated/fixed. And approve the PR once you are okay with it.
 - Add an issue in GitHub repo for any technical changes to be done in the future.
 
 # Notes
