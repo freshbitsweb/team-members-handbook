@@ -13,6 +13,8 @@ If you are reading this as a new team member, we urge you to question everything
 -> We should be recording all the decisions related to tasks in Trello
 -> Slack for internal questions and chat (Goal is to use it the least to keep distraction levels minimum)
 -> Skype (For videos calls, screensharing calls, or calls/discussions with clients and third party developers)
+-> Ubuntu
+-> VS Code
 
 
 - Keeping data confidential
