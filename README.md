@@ -35,6 +35,7 @@ If you are reading this as a new team member, we urge you to question everything
 - Whenever you review a PR and request changes, please make sure that you resolve the conversations once they are updated/fixed. And approve the PR once you are okay with it.
 - Add an issue in GitHub repo for any technical changes to be done in the future.
 - Add everything from General Slack channel and others and new ones too.
+- Custom fields and Due dates in Trello tasks
 
 # Notes
 - Include images of team members and from unsplash
